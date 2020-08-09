@@ -1,0 +1,16 @@
+.landing-page-text {
+    text-align: center;
+    color: $light-color;
+    h1 {
+        font-family: $carter-one-font;
+    }
+    h3 {
+        font-family: montserrat-font;
+        font-weight: 800;
+    }
+    a {
+        box-shadow: 0;
+        font-family: montserrat-font;
+        font-weight: 600;
+    }
+}

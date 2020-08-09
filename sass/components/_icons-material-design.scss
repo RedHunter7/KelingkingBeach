@@ -1,0 +1,7 @@
+/* This is needed for some mobile phones to display the Google Icon font properly */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+.material-icons {
+  font-family: 'Material Icons';
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga';
+}
